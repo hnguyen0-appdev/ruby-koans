@@ -1,5 +1,5 @@
 # Ruby Koans
-
+#aaa
 We're going to do [The Ruby Koans](http://rubykoans.com/) (principally written by [@jimweirich](http://twitter.com/jimweirich)) in order to deepen our understanding of the Ruby language, and of the Ruby community's culture (spoiler: it's very quirky). Welcome!
 
 ## Getting started
